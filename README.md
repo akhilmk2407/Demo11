@@ -12,3 +12,7 @@ Here is the list of Disney characters
 1. Come home
 2. After coming home
 3. And this should be the final line.
+------------------------
+Take me to Google [Go there now](https://www.google.com)
+-------------------------
+some place else [another md in my project](second.md)
